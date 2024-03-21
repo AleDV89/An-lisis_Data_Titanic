@@ -13,9 +13,11 @@ Se realiza un análisis exploratorio con Data Set del Titanic con el objetivo de
 
 ### 🔍 Obtención de Datos:
 
-![Archivo](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/titanic.csv)
+[Archivo](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/titanic.csv)
+
 📚 PDFS:
-![PDFS](https://github.com/AleDV89/An-lisis_Data_Titanic/tree/main/'PDFS)
+
+[PDFS](https://github.com/AleDV89/An-lisis_Data_Titanic/tree/main/'PDFS)
 
 ### 🕵️‍♂️ Estructura del proyecto
 El proyecto Titanic está compuesto por:
@@ -163,16 +165,16 @@ print(ans)
 
 Fuentes:
 - https://www.titanicinquiry.org/downloads/USInq.pdf (páginas 555, 428, 21, 1003)
+ Se confirma que fueron más mujeres las que sobrevivieron. 
 
- 🟢 Se confirma que fueron más mujeres las que sobrevivieron. 
-
-#### Mapa de los tres puertos
+### Mapa de los tres puertos
 
 ![Mapa](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/'GRAFICOS/mapa_puertos.png)
 
- El Titanic zarpó de tres puertos en su primer y único viaje
+ El Titanic zarpó de tres puertos en su primer y único viaje.
 ⚫ En los puntos negros se observa los dos puertos: Southampton en Gran Bretaña y Queenstown en Irlanda.
 🔵 En este punto se observa el puerto Cherbourg en Francia.
 
+### Conclusión: 
 
 
