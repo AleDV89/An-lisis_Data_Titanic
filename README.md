@@ -1,5 +1,3 @@
-# An-lisis_Data_Titanic
-
 # Análisis de Datos Titanic 🛳️
 
 ![Imagen titanic](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/titanic_foto1.jpg)
