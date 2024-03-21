@@ -4,7 +4,7 @@
 
 ### 📝 Resumen:
 
-Se realiza un análisis exploratorio con Data Set del Titanic con el objetivo de extraer, analizar y visualizar los datos con Python 3.x. en Visual Studio con Jupyter Notebook. 
+En este análisis exploratorio, se utilizó la Base de datos del Titanic con el objetivo de extraer, analizar y visualizar los datos utilizando Python 3.x en Visual Studio con Jupyter Notebook. Mediante técnicas de exploración de datos, se buscó comprender mejor la información contenida en el conjunto de datos del Titanic y obtener insights significativos que pudieran contribuir a una comprensión más profunda de este histórico acontecimiento.
 
 ### 🧪 Requisitos: 
 
@@ -20,6 +20,7 @@ Se realiza un análisis exploratorio con Data Set del Titanic con el objetivo de
 [PDFS](https://github.com/AleDV89/An-lisis_Data_Titanic/tree/main/'PDFS)
 
 ### 🕵️‍♂️ Estructura del proyecto
+
 El proyecto Titanic está compuesto por:
 * Procesamiento de datos.
 * Limpieza de datos.
@@ -62,7 +63,8 @@ df.shape
 
 La columna 'Cabin' cuenta con 77% de nulos por lo que se procederá a eliminarse. En cambio la columna 'Age' 19,8% y se procede a repararlo 
 
-(ver codigos aqui) 
+📝 Ver notebook completo aqui:
+[notebook](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/Titanic_proy.ipynb)
 
 #### Análisis Exploratorio de Datos (EDA)
 
@@ -107,7 +109,7 @@ Por lo que se procede  a considerar a niños desde 1 a 7 años y adultos a parti
 
 ![niños_bebes](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/'GRAFICOS/ni%C3%B1os%20y%20bebes%20a%20bordo.png)
 
-En el gráfico se observa la cantidad de niños y bebés a bordo.
+En el gráfico 📊 se observa la cantidad de niños y bebés a bordo.
 
 * Otros datos:
 - La persona más grande de edad tenia 80 años.
@@ -129,8 +131,8 @@ Los datos extraidos sobre los sobrevivientes son:
 ```python
 llm = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0)
 ```
-
-(Ver más en el NB)
+📝 Ver notebook completo aqui:
+[notebook](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/Titanic_proy.ipynb)
 
 Se importan los pdfs y se hace la primera consulta 
 ```python
@@ -167,7 +169,7 @@ Fuentes:
 - https://www.titanicinquiry.org/downloads/USInq.pdf (páginas 555, 428, 21, 1003)
  Se confirma que fueron más mujeres las que sobrevivieron. 
 
-### Mapa de los tres puertos
+### 📊 Mapa de los tres puertos
 
 ![Mapa](https://github.com/AleDV89/An-lisis_Data_Titanic/blob/main/'GRAFICOS/mapa_puertos.png)
 
