@@ -175,6 +175,32 @@ Fuentes:
 ⚫ En los puntos negros se observa los dos puertos: Southampton en Gran Bretaña y Queenstown en Irlanda.
 🔵 En este punto se observa el puerto Cherbourg en Francia.
 
+También se analiza cuantos niños sobrevivieron según la clase ( primera, segunda y tercera clase)
+
+- De primera clase: 2 niños
+- De segunda clase: 15 niños
+- De tercera clase: 17 niños
+
+ Esta información tambien se consultó a los PDFS y nos dió esta información:
+
+ ```python
+ans = chain.invoke("Cuantos niños llegaron con vida?")
+
+print(ans)
+ ```
+
+La respuesta fue:
+¡Hola! Según el testimonio de Mr. Burke, en el bote No. 13 llegaron alrededor de 60 personas, incluyendo aproximadamente cuatro niños. No se menciona que ningún otro bote haya llegado con niños. 
+
+Fuentes:
+- Testimonio de Mr. Burke en el documento del Titanic Inquiry: https://www.titanicinquiry.org/downloads/USInq.pdf (páginas 824, 830)
+
+
 ### Conclusión: 
+Al analizar detenidamente los datos del Titanic, destacan varios aspectos intrigantes. En particular, llama la atención la definición de 'niño' en esa época, donde incluso a partir de los 7 años algunos ya trabajaban en fábricas, lo que plantea cuestiones sobre la percepción histórica de la niñez. Nuestra base de datos revela que, en el desafortunado evento, sobrevivieron un número significativo de niños de diversas clases: 2 de primera clase, 15 de segunda clase y 17 de tercera clase. Sin embargo, contrastando con los datos de los PDFs consultados, donde se estima que solo sobrevivieron aproximadamente 4 niños, surge una notable discrepancia. Además, resalta el hecho de que las mujeres fueron el grupo con mayor índice de supervivencia, subrayando posibles prioridades en la evacuación. Estos descubrimientos arrojan luz sobre la complejidad y las divergencias en la narrativa de la tragedia del Titanic, subrayando la importancia de una evaluación exhaustiva de múltiples fuentes para obtener una comprensión más completa de los eventos históricos.
+
+
+
+
 
 
