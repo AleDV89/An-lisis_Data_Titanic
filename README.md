@@ -17,7 +17,10 @@ En este análisis exploratorio, se utilizó la Base de datos del Titanic con el 
 
 📚 PDFS:
 
-[PDFS](https://github.com/AleDV89/An-lisis_Data_Titanic/tree/main/'PDFS)
+![PDF1](https://e00-elmundo.uecdn.es/aula/laminas/titanic.pdf)
+![PDF2](https://nieonline.com/sentinel/downloads/curricula/titanic.pdf)
+![PDF3](https://www.senate.gov/artandhistory/history/resources/pdf/TitanicReport.pdf)
+![PDF4](https://www.titanicinquiry.org/downloads/USInq.pdf)
 
 ### 🕵️‍♂️ Estructura del proyecto
 
